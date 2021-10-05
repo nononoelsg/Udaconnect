@@ -1,0 +1,19 @@
+run the grpc server and send coordinate
+
+Run python main.py
+C:\Users\Noel\Desktop\udacity\Udaconnect\modules\gRPC_message> python main.py
+
+Run python writter.py
+C:\Users\Noel\Desktop\udacity\Udaconnect\modules\gRPC_message> python writter.py
+
+```
+Output ---
+Sending sample payload...
+
+create a location!
+person_id: "25"
+latitude: "25"
+longitude: "-25"
+
+{'person_id': '25', 'latitude': '25', 'longitude': '-25'}
+```

@@ -1,0 +1,7 @@
+
+Location consumer will be retrieving and saving data from postgresql database using rest
+Location producer services will be using gRPC api passing to kafka as it is much more stable for large volume data.
+
+Connection and API person service can use REST api as it is much more dynamic and flexible.
+
+Finally data consume by connection, API person and location producer will be use to populate data to the frontend.
